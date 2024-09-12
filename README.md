@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--crosswalk-demo--priyamandal72.aem.page/
+- Live: https://main--crosswalk-demo--priyamandal72.aem.live/
 
 ## Installation
 
